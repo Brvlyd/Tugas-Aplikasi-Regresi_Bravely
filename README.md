@@ -1,1 +1,3 @@
 # Tugas-Aplikasi-Regresi_Bravely
+
+Tugas ini bertujuan untuk mengimplementasikan regresi untuk menentukan hubungan antara durasi waktu belajar (TB) dan jumlah latihan soal (NL) terhadap nilai ujian siswa (NT), menggunakan data yang tersedia dari Kaggle. Serta mengerjakan analisis hasil, menguji kode sumber, menghitung galat RMS, mengunggah kode sumber ke GitHub, dan menyusun dokumen yang menjelaskan alur kode, analisis hasil, dan penjabarannya. Selain itu, kita juga diminta untuk membuat kode sumber yang sesuai dengan ketentuan tersebut, menguji kode sumber Anda, menghitung galat RMS, dan menyertakan semua hasil dalam dokumen serta repositori GitHub yang telah dibuat. Berikan deskripsi yang memadai tentang proyek tersebut dalam repositori masing - masing.
